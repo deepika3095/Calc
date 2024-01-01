@@ -25,8 +25,12 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+![image](https://github.com/deepika3095/Calc/assets/151625159/0db87898-cc0b-4ae4-9685-3826e5df0286)
+![image](https://github.com/deepika3095/Calc/assets/151625159/1169845b-bb8c-4014-8607-4720524a4409)
+![image](https://github.com/deepika3095/Calc/assets/151625159/ac7a86a8-2d3a-49dd-bb29-6e9c872a3db1)
 
 ## OUTPUT:
+![image](https://github.com/deepika3095/Calc/assets/151625159/2265198f-d2e0-4935-910c-b0a041e1c9c8)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
